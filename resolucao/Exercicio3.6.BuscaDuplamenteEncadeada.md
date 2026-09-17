@@ -1,0 +1,1 @@
+Cria 2 variáveis temporárias, temphead e temptail, que recebem inicialmente o head e o tail respectivamente. Em um unico laço verfica se o valor procurado é igual a pelo menos uma das variáveis instanciadas. Se for retorna se nao, pega o proximo valor do temphead e o valor anterior do temptail. 
